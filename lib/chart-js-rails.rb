@@ -1,3 +1,8 @@
+require 'chart-js-rails/version'
+
 module Chart
-	require 'chart-js-rails/engine'
+	module Rails
+		class Engine < ::Rails::Engine
+		end
+	end
 end
