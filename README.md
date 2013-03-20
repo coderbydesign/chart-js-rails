@@ -1,4 +1,4 @@
-# Chart.Js for Rails
+# Chart.js for Rails
 
 Integrate Chart.js into Rails Asset Pipeline
 
