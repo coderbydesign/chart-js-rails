@@ -47,11 +47,11 @@ app.js.coffee:
         ]
       }
 
-    myNewChart = new Chart($("#canvas").get(0).getContext("2d")).Line(data);
+    myNewChart = new Chart($("#canvas").get(0).getContext("2d")).Line(data)
     
 index.haml.html:
 
-    %canvas#canvas{:style => "height:450; width:600;"}
+    %canvas#canvas{:height => "450", :width => "600"}
 
 
 Visit: http://www.chartjs.org/docs/ for more Chart.js usage
