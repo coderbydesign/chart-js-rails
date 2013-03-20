@@ -17,7 +17,8 @@ Or install it yourself as:
     $ gem install chart-js-rails
 
 In your application.js file, add
-		$ //= require chart
+		
+		//= require chart
 
 ## Usage
 
