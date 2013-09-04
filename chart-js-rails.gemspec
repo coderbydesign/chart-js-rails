@@ -13,7 +13,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.name          = "chart-js-rails"
   gem.require_paths = ["lib"]
-  gem.version       = Chart::Js::Rails::VERSION
+  gem.version       = ChartJs::Rails::VERSION
 
   gem.add_dependency "railties", "~> 3.1"
 end
