@@ -18,7 +18,7 @@ Or install it yourself as:
 
 Add this to your application.js file:
 		
-    //= require chart
+    //= require Chart
 
 ## Usage
 
