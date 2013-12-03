@@ -1,6 +1,6 @@
 require 'chart-js-rails/version'
 
-module Chart
+module ChartJs
 	module Rails
 		class Engine < ::Rails::Engine
 		end

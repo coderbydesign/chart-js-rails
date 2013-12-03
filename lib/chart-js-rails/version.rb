@@ -1,7 +1,5 @@
-module Chart
-  module Js
-    module Rails
-      VERSION = "0.0.4"
-    end
-  end
+module ChartJs
+	module Rails
+		VERSION = "0.0.4"
+	end
 end
