@@ -49,7 +49,7 @@ app.js.coffee:
 
       myNewChart = new Chart($("#canvas").get(0).getContext("2d")).Line(data)
     
-index.haml.html:
+index.html.haml:
 
     %canvas#canvas{:height => "450", :width => "600"}
 
