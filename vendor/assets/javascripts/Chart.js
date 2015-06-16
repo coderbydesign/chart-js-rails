@@ -3476,6 +3476,8 @@
 
 }).call(this);
 
+
+// Horizontal Bar Chart Type
 (function(){
 	"use strict";
 
