@@ -1,6 +1,6 @@
 # Chart.js for Rails
 
-Integrate Chart.js into Rails Asset Pipeline
+Integrate Chart.js into Rails Asset Pipeline (current version is)
 
 ## Installation
 
@@ -54,4 +54,4 @@ index.html.haml:
     %canvas#canvas{:height => "450", :width => "600"}
 
 
-Visit: http://www.chartjs.org/docs/ for more Chart.js usage
+Visit: http://www.chartjs.org/docs/ for proper Chart.js usage
