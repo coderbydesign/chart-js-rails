@@ -24,7 +24,7 @@ $ gem install chart-js-rails
 Add this to your application.js file:
 
 ```javascript
-//= require Chart
+//= require Chart.min
 ```
 
 ## Usage
