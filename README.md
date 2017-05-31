@@ -1,6 +1,6 @@
 # Chart.js for Rails
 
-Integrate Chart.js into Rails Asset Pipeline (current version is 2.5.0)
+Integrate Chart.js into Rails Asset Pipeline (current version is 2.6.0)
 
 ## Installation
 
@@ -24,7 +24,7 @@ $ gem install chart-js-rails
 Add this to your application.js file:
 
 ```javascript
-//= require Chart
+//= require Chart.min
 ```
 
 ## Usage
