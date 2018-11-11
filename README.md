@@ -1,6 +1,6 @@
 # Chart.js for Rails
 
-Integrate Chart.js into Rails Asset Pipeline (current version is 2.7.2)
+Integrate Chart.js into Rails Asset Pipeline (current version is 2.7.3)
 
 ## Installation
 
